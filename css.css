@@ -1,5 +1,7 @@
 h1{
   text-align: center;
+  font-family: 'Spicy Rice', cursive;
+  font-size: 45px;
 }
 
 .art{
@@ -10,5 +12,33 @@ h1{
   height: 300px;
   width: 150px;
   border: 5px solid white;
-  background-color: blue;
+  background-color: #011627;
+}
+
+#two{
+  height: 300px;
+  width: 150px;
+  border: 5px solid white;
+  background-color: #F4F1BB;
+}
+
+#three{
+  height: 300px;
+  width: 150px;
+  border: 5px solid white;
+  background-color: #2EC4B6;
+}
+
+#four{
+  height: 300px;
+  width: 150px;
+  border: 5px solid white;
+  background-color: #E71D36;
+}
+
+#five{
+  height: 300px;
+  width: 150px;
+  border: 5px solid white;
+  background-color: #FF9F1C;
 }
